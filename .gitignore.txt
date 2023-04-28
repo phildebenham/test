@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Apr 28 12:29:09 2023
+
+@author: pdebe
+"""
+
+# example git ignore file
+
+# analysis log files
+*.log
+
+#results file of our model
+results.csv
+
+#results directory
+results/
