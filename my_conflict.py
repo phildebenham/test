@@ -6,6 +6,8 @@ Created on Fri Apr 28 11:44:08 2023
 """
 
 def my_function(a,b):
+
     result = a  * b
+
     
     return result
