@@ -12,5 +12,3 @@ def add_numbers(num_1, num_2):
 def subtract_numbers(num_1, num_2):
     result = num_1 - num_2
     return result
-
-print("This is an example")
